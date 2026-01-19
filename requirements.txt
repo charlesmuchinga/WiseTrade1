@@ -1,0 +1,7 @@
+flask
+flask-cors
+python-binance
+python-dotenv
+pyjwt
+pyfcm
+pymongo

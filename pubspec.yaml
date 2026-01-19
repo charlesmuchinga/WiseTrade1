@@ -1,0 +1,7 @@
+name: wisetrade
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  fl_chart: ^0.50.1
+  firebase_messaging: ^14.6.4
